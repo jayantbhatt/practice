@@ -1,1 +1,1 @@
-Wheeb
+console.log('Hello');
